@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h1 id="myH"></h1>
+    <p id="myP"></p>
+    <script>
+        // My Heading:
+        document.getElementbyID("myH").innerhtml= "JavaScript Comment";
+     
+        // My Paragraph:
+        document.getElementById("myP").innerhtml= "My First Paragraph";
+    </script>
+</body>
+</html>
